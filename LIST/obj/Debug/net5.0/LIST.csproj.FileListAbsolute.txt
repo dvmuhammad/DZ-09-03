@@ -1,0 +1,16 @@
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.exe
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.deps.json
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.runtimeconfig.json
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.runtimeconfig.dev.json
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.dll
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\ref\LIST.dll
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\bin\Debug\net5.0\LIST.pdb
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.csprojAssemblyReference.cache
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.AssemblyInfo.cs
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.dll
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\ref\LIST.dll
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.pdb
+C:\Users\Мухаммад\Documents\Github\DZ-09-03\LIST\obj\Debug\net5.0\LIST.genruntimeconfig.cache
